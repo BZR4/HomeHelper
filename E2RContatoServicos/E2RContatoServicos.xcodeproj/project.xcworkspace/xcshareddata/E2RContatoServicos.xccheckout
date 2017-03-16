@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>365A9105-5EA3-41A9-B680-5A5B0BC39C12</string>
+	<key>IDESourceControlProjectName</key>
+	<string>E2RContatoServicos</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F855CFC7D32C1FD521776304FADA2100B52F627E</key>
+		<string>https://github.com/RodrigoMiyashiroFatec/Novo_E2R.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>E2RContatoServicos/E2RContatoServicos.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F855CFC7D32C1FD521776304FADA2100B52F627E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RodrigoMiyashiroFatec/Novo_E2R.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F855CFC7D32C1FD521776304FADA2100B52F627E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F855CFC7D32C1FD521776304FADA2100B52F627E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Novo_E2R</string>
+		</dict>
+	</array>
+</dict>
+</plist>
